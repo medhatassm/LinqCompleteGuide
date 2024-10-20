@@ -1,19 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text.Json;
-using System.Xml;
-using FunctionalProgramming.models;
-
-namespace FunctionalProgramming
+namespace LinqCore.models
 {
-    public static class Repository
-    {
-
-        public static IEnumerable<Employee> LoadEmployees()
+        public static class Repository
         {
-            return new List<Employee> 
+
+                public static IEnumerable<Employee> LoadEmployees()
+                {
+                        return new List<Employee>
             {
                 new Employee
                 {
@@ -25,8 +17,7 @@ namespace FunctionalProgramming
                         Department = "FIMAMCE",
                         HasHealthInsurance = false,
                         HasPensionPlan = true,
-                        Salary = 103200m,
-                        Skills = new (){"ASP.Net" }
+                        Salary = 103200m
                 },
                 new Employee
                 {
@@ -1217,6 +1208,6 @@ namespace FunctionalProgramming
                         Salary = 235100m
                 }
             };
-        } 
-    }
+                }
+        }
 }

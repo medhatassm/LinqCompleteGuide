@@ -1,4 +1,4 @@
-namespace FunctionalProgramming.models
+namespace LinqCore.models
 {
     public class Employee
     {
@@ -21,7 +21,6 @@ namespace FunctionalProgramming.models
 
         public decimal Salary { get; set; }
 
-        public List<string> Skills { get; set; } = new List<string>();
 
         public override string ToString()
         {

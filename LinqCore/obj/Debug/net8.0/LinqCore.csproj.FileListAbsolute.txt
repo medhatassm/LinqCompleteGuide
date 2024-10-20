@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/LinqCore
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/LinqCore.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/LinqCore.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/LinqCore.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/LinqCore.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/refint/LinqCore.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/ref/LinqCore.dll
