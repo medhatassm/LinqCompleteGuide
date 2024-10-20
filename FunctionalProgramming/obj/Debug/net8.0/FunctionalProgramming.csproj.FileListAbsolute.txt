@@ -1,0 +1,14 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/bin/Debug/net8.0/FunctionalProgramming
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/bin/Debug/net8.0/FunctionalProgramming.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/bin/Debug/net8.0/FunctionalProgramming.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/bin/Debug/net8.0/FunctionalProgramming.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/bin/Debug/net8.0/FunctionalProgramming.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/refint/FunctionalProgramming.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/ref/FunctionalProgramming.dll
