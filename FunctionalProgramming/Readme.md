@@ -1,4 +1,6 @@
-# Programming Paradigm
+# Functional Programming
+
+## Programming Paradigm
 
 1. Declarative (Functional , logic).
 2. Dynamic compile time at runtime.
