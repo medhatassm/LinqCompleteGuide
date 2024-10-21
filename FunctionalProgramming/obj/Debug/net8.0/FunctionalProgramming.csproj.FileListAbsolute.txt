@@ -12,3 +12,4 @@
 /Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.pdb
 /Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.genruntimeconfig.cache
 /Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/ref/FunctionalProgramming.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/FunctionalProgramming/obj/Debug/net8.0/FunctionalProgramming.sourcelink.json

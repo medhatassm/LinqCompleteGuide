@@ -1,4 +1,5 @@
 ﻿using System;
+using FunctionalProgramming.models;
 
 namespace FunctionalProgramming
 {

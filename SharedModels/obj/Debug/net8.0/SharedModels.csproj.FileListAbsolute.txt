@@ -1,0 +1,12 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/bin/Debug/net8.0/SharedModels.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/bin/Debug/net8.0/SharedModels.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/bin/Debug/net8.0/SharedModels.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/refint/SharedModels.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/SharedModels.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/obj/Debug/net8.0/ref/SharedModels.dll

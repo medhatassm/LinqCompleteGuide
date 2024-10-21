@@ -13,3 +13,7 @@
 /Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.pdb
 /Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.genruntimeconfig.cache
 /Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/ref/LinqCore.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/SharedModels.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/bin/Debug/net8.0/SharedModels.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.csproj.AssemblyReference.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/LinqCore/obj/Debug/net8.0/LinqCore.csproj.Up2Date

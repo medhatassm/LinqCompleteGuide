@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "SharedModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SharedModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedModels.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SharedModels/1.0.0": {
+      "type": "project",
+      "path": "../SharedModels/SharedModels.csproj",
+      "msbuildProject": "../SharedModels/SharedModels.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "SharedModels >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/medhat/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/SharedModels.csproj": {
+              "projectPath": "/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SharedModels/SharedModels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

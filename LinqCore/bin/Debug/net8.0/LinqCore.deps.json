@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "LinqCore/1.0.0": {
+        "dependencies": {
+          "SharedModels": "1.0.0"
+        },
         "runtime": {
           "LinqCore.dll": {}
+        }
+      },
+      "SharedModels/1.0.0": {
+        "runtime": {
+          "SharedModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "LinqCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
