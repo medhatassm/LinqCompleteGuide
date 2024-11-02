@@ -3,14 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{176003BB-E11C-4FB7-8CE0-58E34E850A87}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqCore", "LinqCore\LinqCore.csproj", "{DD99BEC3-266E-46D4-B895-3B102B542287}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModels", "SharedModels\SharedModels.csproj", "{7447EC55-64A0-46F0-A8AC-072A58157635}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pajination", "Pajination\Pajination.csproj", "{68D9EE95-F256-44B3-890E-DD9CB3BE80CC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,23 +10,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{176003BB-E11C-4FB7-8CE0-58E34E850A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{176003BB-E11C-4FB7-8CE0-58E34E850A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{176003BB-E11C-4FB7-8CE0-58E34E850A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{176003BB-E11C-4FB7-8CE0-58E34E850A87}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD99BEC3-266E-46D4-B895-3B102B542287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD99BEC3-266E-46D4-B895-3B102B542287}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD99BEC3-266E-46D4-B895-3B102B542287}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD99BEC3-266E-46D4-B895-3B102B542287}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7447EC55-64A0-46F0-A8AC-072A58157635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7447EC55-64A0-46F0-A8AC-072A58157635}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7447EC55-64A0-46F0-A8AC-072A58157635}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7447EC55-64A0-46F0-A8AC-072A58157635}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68D9EE95-F256-44B3-890E-DD9CB3BE80CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68D9EE95-F256-44B3-890E-DD9CB3BE80CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68D9EE95-F256-44B3-890E-DD9CB3BE80CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68D9EE95-F256-44B3-890E-DD9CB3BE80CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
