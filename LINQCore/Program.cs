@@ -1,9 +1,7 @@
-﻿using LINQCore;
-
-#region Why Using LINQ?
+﻿#region Why Using LINQ?
 
 // Get All Employees
-var Employees = Repository.LoadEmployees();
+// var Employees = Repository.LoadEmployees();
 
 // Ex One: Get Female Employees with FirstName Start with S
 
@@ -16,9 +14,9 @@ var Employees = Repository.LoadEmployees();
 
 // Soultion With LINQ
 
-var FemaleEmployee =
-    Employees.Where(x =>
-    x.Gender == "female" && x.FirstName.ToLowerInvariant().StartsWith("s"));
+// var FemaleEmployee =
+//     Employees.Where(x =>
+//     x.Gender == "female" && x.FirstName.ToLowerInvariant().StartsWith("s"));
 
 // FemaleEmployee.Print("Get Female Employees with FirstName Start with S");
 
@@ -48,8 +46,4 @@ foreach (var num in EvenNumber)
     Console.WriteLine(num);
 }
 
-
 #endregion
-
-
-

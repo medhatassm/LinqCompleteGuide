@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/bin/Debug/net8.0/SortingData
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/bin/Debug/net8.0/SortingData.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/bin/Debug/net8.0/SortingData.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/bin/Debug/net8.0/SortingData.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/bin/Debug/net8.0/SortingData.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/refint/SortingData.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/SortingData.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/SortingData/obj/Debug/net8.0/ref/SortingData.dll
