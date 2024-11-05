@@ -5,6 +5,9 @@ Language Integrated Query is a Microsoft .NET Framework component that adds nati
 ## Content
 
 - Pure V.S Impure Function
+- Functional Programming
+- LINQ Core
+- Projection Operation
 
 ---
 
