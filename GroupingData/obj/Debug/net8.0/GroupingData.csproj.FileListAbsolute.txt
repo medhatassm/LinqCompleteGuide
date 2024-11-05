@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/bin/Debug/net8.0/GroupingData
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/bin/Debug/net8.0/GroupingData.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/bin/Debug/net8.0/GroupingData.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/bin/Debug/net8.0/GroupingData.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/bin/Debug/net8.0/GroupingData.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/refint/GroupingData.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/GroupingData.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GroupingData/obj/Debug/net8.0/ref/GroupingData.dll
