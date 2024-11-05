@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/bin/Debug/net8.0/PajinationSystem
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/bin/Debug/net8.0/PajinationSystem.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/bin/Debug/net8.0/PajinationSystem.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/bin/Debug/net8.0/PajinationSystem.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/bin/Debug/net8.0/PajinationSystem.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/refint/PajinationSystem.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/PajinationSystem.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/PajinationSystem/obj/Debug/net8.0/ref/PajinationSystem.dll

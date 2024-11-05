@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/bin/Debug/net8.0/DataPartationing
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/bin/Debug/net8.0/DataPartationing.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/bin/Debug/net8.0/DataPartationing.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/bin/Debug/net8.0/DataPartationing.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/bin/Debug/net8.0/DataPartationing.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/refint/DataPartationing.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/DataPartationing.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/DataPartationing/obj/Debug/net8.0/ref/DataPartationing.dll

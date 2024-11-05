@@ -1,24 +1,25 @@
 ﻿#region Why Using LINQ?
+using LINQCore.Models;
 
 // Get All Employees
-// var Employees = Repository.LoadEmployees();
+var Employees = Repository.LoadEmployees();
 
 // Ex One: Get Female Employees with FirstName Start with S
 
 // Soultion Without LINQ (Filter method build by programmer)
 
-// var FemaleEmployee = Employees.
-// Filter(x => x.Gender == "female" && x.FirstName.ToLowerInvariant().StartsWith("s"));
+var FemaleEmployeeWithFilterMethod = Employees.
+Filter(x => x.Gender == "female" && x.FirstName.ToLowerInvariant().StartsWith("s"));
 
-// FemaleEmployee.Print("Female Employees with FirstName Start with S");
+FemaleEmployeeWithFilterMethod.Print("Female Employees with FirstName Start with S");
 
 // Soultion With LINQ
 
-// var FemaleEmployee =
-//     Employees.Where(x =>
-//     x.Gender == "female" && x.FirstName.ToLowerInvariant().StartsWith("s"));
+var FemaleEmployee =
+    Employees.Where(x =>
+    x.Gender == "female" && x.FirstName.ToLowerInvariant().StartsWith("s"));
 
-// FemaleEmployee.Print("Get Female Employees with FirstName Start with S");
+FemaleEmployee.Print("Get Female Employees with FirstName Start with S");
 
 #endregion
 

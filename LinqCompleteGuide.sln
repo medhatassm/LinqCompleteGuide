@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectionOperation", "Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingData", "SortingData\SortingData.csproj", "{F8A6CD44-1573-4F36-9341-04FF8B712723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPartationing", "DataPartationing\DataPartationing.csproj", "{4FFFDC42-338B-4887-9E0F-63BE2A81A945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quantifiers", "Quantifiers\Quantifiers.csproj", "{7186D34D-41D5-4112-8233-7303B6185126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{F8A6CD44-1573-4F36-9341-04FF8B712723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A6CD44-1573-4F36-9341-04FF8B712723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A6CD44-1573-4F36-9341-04FF8B712723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFFDC42-338B-4887-9E0F-63BE2A81A945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFFDC42-338B-4887-9E0F-63BE2A81A945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFFDC42-338B-4887-9E0F-63BE2A81A945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFFDC42-338B-4887-9E0F-63BE2A81A945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7186D34D-41D5-4112-8233-7303B6185126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7186D34D-41D5-4112-8233-7303B6185126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7186D34D-41D5-4112-8233-7303B6185126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7186D34D-41D5-4112-8233-7303B6185126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
