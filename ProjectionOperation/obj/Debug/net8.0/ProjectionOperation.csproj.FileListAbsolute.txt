@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/bin/Debug/net8.0/ProjectionOperation
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/bin/Debug/net8.0/ProjectionOperation.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/bin/Debug/net8.0/ProjectionOperation.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/bin/Debug/net8.0/ProjectionOperation.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/bin/Debug/net8.0/ProjectionOperation.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/refint/ProjectionOperation.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ProjectionOperation.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ProjectionOperation/obj/Debug/net8.0/ref/ProjectionOperation.dll

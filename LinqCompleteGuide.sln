@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQCore", "LINQCore\LINQCore.csproj", "{AFCA2F66-5C00-4959-9757-E475514A27CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectionOperation", "ProjectionOperation\ProjectionOperation.csproj", "{B1886BA5-7E8F-4895-94E3-C4F662C55874}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AFCA2F66-5C00-4959-9757-E475514A27CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFCA2F66-5C00-4959-9757-E475514A27CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFCA2F66-5C00-4959-9757-E475514A27CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1886BA5-7E8F-4895-94E3-C4F662C55874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1886BA5-7E8F-4895-94E3-C4F662C55874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1886BA5-7E8F-4895-94E3-C4F662C55874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1886BA5-7E8F-4895-94E3-C4F662C55874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
