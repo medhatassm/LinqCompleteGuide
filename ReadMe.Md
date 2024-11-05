@@ -10,7 +10,8 @@ Language Integrated Query is a Microsoft .NET Framework component that adds nati
 - Projection Operation
 - Sorting Data
 - Data Partitioning
-
+- Quantifiers
+- Grouping Data
 
 ---
 

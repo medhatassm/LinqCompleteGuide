@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/bin/Debug/net8.0/Quantifiers
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/bin/Debug/net8.0/Quantifiers.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/bin/Debug/net8.0/Quantifiers.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/bin/Debug/net8.0/Quantifiers.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/bin/Debug/net8.0/Quantifiers.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/refint/Quantifiers.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/Quantifiers.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Quantifiers/obj/Debug/net8.0/ref/Quantifiers.dll
