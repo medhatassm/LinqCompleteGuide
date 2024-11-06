@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/bin/Debug/net8.0/EqualityOperationss
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/bin/Debug/net8.0/EqualityOperationss.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/bin/Debug/net8.0/EqualityOperationss.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/bin/Debug/net8.0/EqualityOperationss.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/bin/Debug/net8.0/EqualityOperationss.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/refint/EqualityOperationss.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/EqualityOperationss.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/EqualityOperationss/obj/Debug/net8.0/ref/EqualityOperationss.dll
