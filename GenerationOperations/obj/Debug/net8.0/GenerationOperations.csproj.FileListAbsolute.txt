@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/bin/Debug/net8.0/GenerationOperations
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/bin/Debug/net8.0/GenerationOperations.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/bin/Debug/net8.0/GenerationOperations.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/bin/Debug/net8.0/GenerationOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/bin/Debug/net8.0/GenerationOperations.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/refint/GenerationOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/GenerationOperations.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/GenerationOperations/obj/Debug/net8.0/ref/GenerationOperations.dll
