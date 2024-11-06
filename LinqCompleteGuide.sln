@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quantifiers", "Quantifiers\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingData", "GroupingData\GroupingData.csproj", "{43D53BE4-D8D4-4A82-B75C-1999A23F7193}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinOperations", "JoinOperations\JoinOperations.csproj", "{D37CE365-938B-4194-BE37-F38600E77210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{43D53BE4-D8D4-4A82-B75C-1999A23F7193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43D53BE4-D8D4-4A82-B75C-1999A23F7193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43D53BE4-D8D4-4A82-B75C-1999A23F7193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37CE365-938B-4194-BE37-F38600E77210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37CE365-938B-4194-BE37-F38600E77210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37CE365-938B-4194-BE37-F38600E77210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37CE365-938B-4194-BE37-F38600E77210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

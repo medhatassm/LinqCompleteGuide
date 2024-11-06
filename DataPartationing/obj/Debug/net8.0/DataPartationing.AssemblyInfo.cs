@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataPartationing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81ec2361d1afb28950d53535eeda8e82d844d5cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2222da8275ff25b856702fb3c91b95b6c70448ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataPartationing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataPartationing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

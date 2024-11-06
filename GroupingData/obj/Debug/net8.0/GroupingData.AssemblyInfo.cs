@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupingData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b261aff1b7416f4fcb40ec1dcf5a637555c813")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2222da8275ff25b856702fb3c91b95b6c70448ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupingData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupingData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

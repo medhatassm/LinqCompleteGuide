@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunctionalProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+908fc3a72d79f0c370430d0b751926fce4bdc731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2222da8275ff25b856702fb3c91b95b6c70448ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunctionalProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunctionalProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

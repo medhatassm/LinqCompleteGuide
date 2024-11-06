@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/bin/Debug/net8.0/JoinOperations
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/bin/Debug/net8.0/JoinOperations.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/bin/Debug/net8.0/JoinOperations.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/bin/Debug/net8.0/JoinOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/bin/Debug/net8.0/JoinOperations.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/refint/JoinOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/JoinOperations.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/JoinOperations/obj/Debug/net8.0/ref/JoinOperations.dll
