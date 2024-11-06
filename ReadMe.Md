@@ -16,6 +16,7 @@ Language Integrated Query is a Microsoft .NET Framework component that adds nati
 - Generation Operations
 - ElementOperations
 - Equality Operations
+- Concatenation
 
 ---
 
