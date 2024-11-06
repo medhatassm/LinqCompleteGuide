@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinOperations", "JoinOpera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerationOperations", "GenerationOperations\GenerationOperations.csproj", "{3A7C5B25-D9CE-424E-9B41-59F86A32B1DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperations", "ElementOperations\ElementOperations.csproj", "{3EE1FE68-8B8F-468B-A0E5-A54B51DEF64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperationss", "EqualityOperationss\EqualityOperationss.csproj", "{42EEFF6C-5B97-4C65-9F97-6987220E302C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{3A7C5B25-D9CE-424E-9B41-59F86A32B1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7C5B25-D9CE-424E-9B41-59F86A32B1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A7C5B25-D9CE-424E-9B41-59F86A32B1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE1FE68-8B8F-468B-A0E5-A54B51DEF64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE1FE68-8B8F-468B-A0E5-A54B51DEF64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE1FE68-8B8F-468B-A0E5-A54B51DEF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE1FE68-8B8F-468B-A0E5-A54B51DEF64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EEFF6C-5B97-4C65-9F97-6987220E302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EEFF6C-5B97-4C65-9F97-6987220E302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EEFF6C-5B97-4C65-9F97-6987220E302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EEFF6C-5B97-4C65-9F97-6987220E302C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

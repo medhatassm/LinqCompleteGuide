@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/bin/Debug/net8.0/ElementOperations
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/bin/Debug/net8.0/ElementOperations.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/bin/Debug/net8.0/ElementOperations.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/bin/Debug/net8.0/ElementOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/bin/Debug/net8.0/ElementOperations.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/refint/ElementOperations.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ElementOperations.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ElementOperations/obj/Debug/net8.0/ref/ElementOperations.dll
