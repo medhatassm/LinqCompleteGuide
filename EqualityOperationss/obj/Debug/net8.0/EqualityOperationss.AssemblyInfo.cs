@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EqualityOperationss")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80150e4461354232a83583d4e8774e26e8b1dc24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff8cb800c6cfe36c5a5c2e59521833b682fe28f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EqualityOperationss")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EqualityOperationss")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

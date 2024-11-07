@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperationss", "Equa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenation", "Concatenation\Concatenation.csproj", "{87BE8880-AC74-42BB-B866-56DACB0E0B75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregate", "Aggregate\Aggregate.csproj", "{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,13 @@ Global
 		{87BE8880-AC74-42BB-B866-56DACB0E0B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87BE8880-AC74-42BB-B866-56DACB0E0B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87BE8880-AC74-42BB-B866-56DACB0E0B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A1B14D-779B-429A-A646-CAFF730A1388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A1B14D-779B-429A-A646-CAFF730A1388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A1B14D-779B-429A-A646-CAFF730A1388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A1B14D-779B-429A-A646-CAFF730A1388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
