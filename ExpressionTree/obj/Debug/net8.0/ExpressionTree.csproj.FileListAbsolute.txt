@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/bin/Debug/net8.0/ExpressionTree
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/bin/Debug/net8.0/ExpressionTree.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/bin/Debug/net8.0/ExpressionTree.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/bin/Debug/net8.0/ExpressionTree.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/bin/Debug/net8.0/ExpressionTree.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/refint/ExpressionTree.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ExpressionTree.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/ExpressionTree/obj/Debug/net8.0/ref/ExpressionTree.dll
