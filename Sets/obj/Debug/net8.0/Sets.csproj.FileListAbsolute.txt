@@ -1,0 +1,15 @@
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/bin/Debug/net8.0/Sets
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/bin/Debug/net8.0/Sets.deps.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/bin/Debug/net8.0/Sets.runtimeconfig.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/bin/Debug/net8.0/Sets.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/bin/Debug/net8.0/Sets.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.sourcelink.json
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/refint/Sets.dll
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.pdb
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/Sets.genruntimeconfig.cache
+/Users/medhat/Developer/Conosle Application/LinqCompleteGuide/Sets/obj/Debug/net8.0/ref/Sets.dll

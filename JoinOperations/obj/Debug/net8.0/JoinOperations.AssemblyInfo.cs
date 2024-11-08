@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JoinOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff8cb800c6cfe36c5a5c2e59521833b682fe28f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09cc9198285a94810940ffc2fce710c75ad6491e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JoinOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JoinOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenation", "Concatenat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregate", "Aggregate\Aggregate.csproj", "{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets", "Sets\Sets.csproj", "{83818ED2-0F19-4944-A63D-54F9CA467F52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -94,5 +96,9 @@ Global
 		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA8EC615-3C1E-4820-B485-2CFF09ABF2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83818ED2-0F19-4944-A63D-54F9CA467F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83818ED2-0F19-4944-A63D-54F9CA467F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83818ED2-0F19-4944-A63D-54F9CA467F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83818ED2-0F19-4944-A63D-54F9CA467F52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
