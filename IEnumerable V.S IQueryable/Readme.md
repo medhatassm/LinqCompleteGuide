@@ -1,6 +1,6 @@
 # IEnumerable V.S IQueryable
 
-![1*wNY_M1CggVdEaijsNaCptQ.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/5867e73d-65ce-46d3-b43e-ab77e112c46c/1wNY_M1CggVdEaijsNaCptQ.webp)
+![1_wNY_M1CggVdEaijsNaCptQ](https://github.com/user-attachments/assets/8d47b664-98ec-413c-9434-60754103cfeb)
 
 ## **What is IEnumerable?**
 
